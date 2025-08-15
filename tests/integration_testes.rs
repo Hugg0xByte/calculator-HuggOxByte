@@ -1,5 +1,5 @@
-use calculator_HuggOxByte::calc1::{add, sub};
-use calculator_HuggOxByte::calc2::{multiply, rate};
+use calculator_huggoxbyte::calc1::{add, sub};
+use calculator_huggoxbyte::calc2::{multiply, rate};
 
 #[cfg(test)]
 mod testes_operacoes_basicas {
