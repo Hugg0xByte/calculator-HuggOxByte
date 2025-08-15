@@ -1,10 +1,10 @@
 [package]
-name = "calculator-HuggOxByte"
+name = "calculator-huggoxbyte"
 version = "0.1.0"
 edition = "2021"
 decription = "Uma biblioteca de calculadora com u32"
 license = "MIT"
-repository = "https://github.com/HuggOxByte/calculator"
+repository = "https://github.com/HuggOxByte/calculator-HuggOxByte"
 authors = ["HuggOxByte <huggo.oliveira1@gmail.com>"]
 
 [dependencies]
